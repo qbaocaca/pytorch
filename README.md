@@ -1,6 +1,4 @@
-# pytorch
-
-i implement some CNN architectures
+# i implement some CNN architectures in pytorch
 
 Lenet-5
 
