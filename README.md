@@ -1,5 +1,11 @@
 # i implement some CNN architectures in pytorch
 
+most of my implementations are based on aladdin pearson and python engineer. they are very good teachers, the tutorials are very helpful, please find them on youtube:
+
+Aladdin Pearson: https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz
+
+Python Engineer:  https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4
+
 Lenet-5
 
 Alexnet
