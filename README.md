@@ -22,7 +22,9 @@ Efficientnet
 
 i have made some notes for quick understanding of the nets. it is titled notes_on_convnets.pdf
 
-there is also a model training pipeline which I often used when training models. it is titled efficientnet_manual_on_hymeno.ipynb
+there is a model training pipeline which I often used when training models. it is titled efficientnet_manual_on_hymeno.ipynb
+
+other than that, there is a project i have done with my friends at school on Generative Adversarial Networks or GAN. there are lots of insights in there. written in simple words. it is  titled GAN_project.pdf 
 
 # Some paper websites:
 
