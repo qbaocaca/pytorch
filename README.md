@@ -22,6 +22,8 @@ Efficientnet
 
 i have made some notes for quick understanding of the nets. it is titled notes_on_convnets.pdf
 
+there is also a model training pipeline which I often used when training models. it is titled efficientnet_manual_on_hymeno.ipynb
+
 # Some paper websites:
 
 efficientnet: https://arxiv.org/pdf/1905.11946.pdf
