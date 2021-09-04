@@ -20,6 +20,7 @@ Mobilenetv1, v2, v3
 
 Efficientnet
 
+i have made some notes for quick understanding of the nets. it is titled notes_on_convnets.pdf
 
 # Some paper websites:
 
