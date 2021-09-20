@@ -1,6 +1,6 @@
 # i implement some CNN architectures in pytorch
 
-most of my implementations are based on aladdin pearson and python engineer tutorials. they are very good sources of learning. please find them on youtube:
+my implementations are based on aladdin pearson and python engineer tutorials. they are very good sources of learning. please find them on youtube:
 
 Aladdin Pearson: https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz
 
@@ -20,11 +20,11 @@ Mobilenetv1, v2, v3
 
 Efficientnet
 
-i have made some notes for quick understanding of the nets. it is titled notes_on_convnets.pdf
+there are some notes for quick understanding of the nets: notes_on_convnets.pdf
 
-there is a model training pipeline which I often used when training models. it is titled efficientnet_manual_on_hymeno.ipynb
+there are lots of model training pipeline: efficientnet_manual_on_hymeno.ipynb
 
-other than that, there is a project i have done with my friends at school on Generative Adversarial Networks or GAN. there are lots of insights in there. written in simple words. it is  titled GAN_project.pdf 
+there is a project on Generative Adversarial Networks, GAN: GAN_project.pdf 
 
 # Some paper websites:
 
